@@ -1,0 +1,15 @@
+img{
+    width: 500px;
+    height: 300px;
+}
+
+h1{
+    text-align: center;
+    color: pink;
+}
+ol{
+    list-style: upper-roman;
+}
+ul{
+    list-style: "(^///^) ";
+}
